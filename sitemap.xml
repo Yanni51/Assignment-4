@@ -67,6 +67,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products-2/s-class/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/c-class/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/sl-class/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/gt-coupe/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
